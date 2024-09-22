@@ -1,0 +1,10 @@
+frontend:
+    path: .
+    publish: build
+    scripts:
+        build: npm run build
+        deploy: npm install
+    subdomain: Portfolio-1
+name: Portfolio-1
+region: us-east-1
+yamlVersion: 2
