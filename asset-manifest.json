@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-1/static/css/main.94f9b03a.css",
+    "main.js": "/portfolio-1/static/js/main.b2b8b899.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio-1/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-1/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.svg": "/portfolio-1/static/media/avatar.efdf129bc0c8b34e19ca4b23f0e21903.svg",
+    "static/media/home-main.svg": "/portfolio-1/static/media/home-main.5051b2382970bdf44f04d32478b2cf46.svg",
+    "static/media/leaf.png": "/portfolio-1/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolio-1/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfolio-1/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/portfolio-1/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-bg.jpg": "/portfolio-1/static/media/home-bg.27dd298bdae92de7f7a1.jpg",
+    "static/media/blog.png": "/portfolio-1/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/yordanosresume.pdf": "/portfolio-1/static/media/yordanosresume.8d74288734ad9b40e8e8.pdf",
+    "static/media/about.png": "/portfolio-1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/portfolio-1/static/media/chatify.7206044e0b5cdad44726.png",
+    "index.html": "/portfolio-1/index.html",
+    "static/media/pre.svg": "/portfolio-1/static/media/pre.fee49b998df76c6748f9.svg",
+    "main.94f9b03a.css.map": "/portfolio-1/static/css/main.94f9b03a.css.map",
+    "main.b2b8b899.js.map": "/portfolio-1/static/js/main.b2b8b899.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio-1/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-1/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f9b03a.css",
+    "static/js/main.b2b8b899.js"
+  ]
+}
